@@ -1,0 +1,159 @@
+
+
+nav{
+  background-color: #C12127;
+  color: rgba(255, 255, 255, 0.8);
+  padding-top: 15px;
+  height: 100px;
+}
+
+nav a {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin:  0 20px 0 0;
+}
+
+.top-links li{
+  display: inline-block;
+  margin: 0 10px;
+}
+header{
+  background-color: rgb(32, 101, 136);
+  color: white;
+  background: url(images/city-scape.svg);
+  background-size: cover;
+}
+#npm{
+  padding: 10px 0px 0px 0px;
+}
+#searchbar{
+  background: rgb(31, 82, 111);
+  width: 77%;
+  position: center;
+}
+ #bat{
+   width: 40%;
+   padding-right: 30%;
+   padding-bottom: 10%;
+   margin: 0 auto;
+   text-align: left;
+}
+#bat-button{
+  background-color:rgb(240, 146, 51);
+  border-radius: 6px;
+  color: white;
+}
+
+.collab{
+  color: white;
+  background-color: rgb(39, 53, 71);
+  position: relative;
+  height: auto;
+
+}
+.collab div{
+  box-sizing:border-box;
+  display:inline-block;
+  background-color: rgb(39, 53, 71);
+  height: auto;
+
+}
+.coll-img{
+  width: 50%;
+  height: auto;
+  padding-bottom: 10%;
+  padding-top: 10%;
+  padding-left: 20%;
+  float: left;
+  background-color: rgb(39, 53, 71);
+
+}
+
+.col-list{
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  float: right;
+  position: center;
+  height: auto;
+}
+
+.col-list button{
+  background-color:rgb(203, 56, 71);
+  border-radius: 6px;
+  color: white;
+
+}
+#what-npm{
+  clear: both;
+  background: url(images/forklift.svg);
+  color: white;
+  background-size: cover;
+  position: relative;
+  height: auto;
+}
+.npm-txt{
+  padding-left: 20%;
+  padding-top: 1%;
+  padding-bottom: 5%;
+  width: 20%;
+
+}
+#inst-npm{
+  background-color:rgb(49, 68, 88);
+  border-radius: 6px;
+  color: white;
+}
+.npm-txt{
+  text-align: left;
+}
+#section3{
+  background: white;
+  text-align: center;
+  padding-top: 5%;
+}
+#section3 h2{
+  color: rgb(83, 88, 98);
+}
+#section3 p{
+  color: rgb(135, 145, 156);
+}
+#section3 .heading3{
+  padding-left: 20%;
+  padding-right: 20%;
+}
+#section3 .logos{
+  margin:auto;
+  color: rgb(135, 145, 156);
+  padding-left: 15%;
+  padding-right: 15%;
+}
+#section3 a{
+  color: rgb(208, 74, 73);
+}
+#section3 .logo1{
+  float: left;
+  text-align: center;
+  width: 32%;
+}
+#section3 .logo2{
+  float: left;
+  margin-left: 25px;
+  text-align: center;
+  width: 32%;
+}
+#section3 .logo3{
+  float: right;
+  text-align: center;
+  width: 32%;
+}
+#section3 .clear{
+  clear: both;
+}
